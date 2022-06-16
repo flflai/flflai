@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flflai
 - 👀 I’m interested in music production and sound design.
 - 🌱 I’m currently learning python, and shader programming.
-- 💞️ I’m looking to collaborate on audio projects.
+- 💞️ I’m looking to collaborate on audio visual projects.
 - 📫 How to reach me @ flflai.github.io
 
 <!---
